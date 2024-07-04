@@ -6,6 +6,9 @@ A simple Tic-Tac-Toe game built with React, featuring player turns, game board t
 - React
 - JavaScript
 
+## Hooks Used
+- useState
+
 ## Features
 - Tracks player turns and displays active player
 - Updates game board based on player selections
